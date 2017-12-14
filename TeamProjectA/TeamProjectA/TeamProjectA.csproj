@@ -130,6 +130,7 @@
     </Compile>
     <Compile Include="Models\Logon.cs" />
     <Compile Include="Models\Member.cs" />
+    <Compile Include="Models\MemberRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
