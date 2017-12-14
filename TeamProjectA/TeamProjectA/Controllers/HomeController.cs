@@ -11,15 +11,16 @@ namespace TeamProjectA.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //return View();
+
+            // 3번째 수정
             return View();
 
 
 
 
-
-
-
             // 1번째 수정
+
             // 2번째 수정
         }
     }
