@@ -12,6 +12,14 @@ namespace TeamProjectA.Controllers
         public ActionResult Index()
         {
             return View();
+
+
+
+
+
+
+
+            // 1번째 수정
         }
     }
 }
