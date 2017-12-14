@@ -13,9 +13,8 @@ namespace TeamProjectA.Controllers
         {
             //return View();
 
+            // 3번째 수정
             return View();
-
-
 
 
 
@@ -23,7 +22,6 @@ namespace TeamProjectA.Controllers
             // 1번째 수정
 
             // 2번째 수정
-
         }
     }
 }
